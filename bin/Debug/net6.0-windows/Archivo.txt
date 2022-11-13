@@ -2,3 +2,10 @@
 2            Hamburguesa c/ Queso
 4            Papas Fritas
 6            Coca Cola
+4            Papas Fritas
+2            Hamburguesa
+1            Hamburguesa c/ Queso
+1            Hamburguesa c/ Queso
+1            Papas Fritas
+1            Hamburguesa
+1            Hamburguesa

@@ -4,7 +4,6 @@ namespace Comida_2
     {
 
         
-
         public Form1()
         {
             InitializeComponent();
@@ -70,8 +69,6 @@ namespace Comida_2
                 tbHamburguesaQueso.Text = "";
             }
             
-
-
             
         }
 
@@ -85,50 +82,8 @@ namespace Comida_2
 
         private void btIngredientes_Click(object sender, EventArgs e)
         {
-
+            // Agregar/quitar ingredientes -> lechuga, tomate, condimentos, etc
         }
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         private void btImprimirTicket_Click(object sender, EventArgs e)
         {
             var ticket = new Ticket();
@@ -149,6 +104,17 @@ namespace Comida_2
                 h2.CocaCola(g);
                 tbCoca.Text = "";
             }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //this.Location = new Point(0, 0); //sobra si tienes la posición en el diseño
+            //this.Size = new Size(this.Width, Screen.PrimaryScreen.WorkingArea.Size.Height);
         }
     }
 }

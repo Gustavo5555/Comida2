@@ -106,6 +106,7 @@
             this.label1.Size = new System.Drawing.Size(118, 25);
             this.label1.TabIndex = 48;
             this.label1.Text = "N°  Caja:  34";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button13
             // 
@@ -438,7 +439,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(856, 859);
+            this.ClientSize = new System.Drawing.Size(757, 749);
             this.Controls.Add(this.btAgregarGaseosa);
             this.Controls.Add(this.btAgregarHamburguesa);
             this.Controls.Add(this.btAgregarPapas);
@@ -478,6 +479,7 @@
             this.Controls.Add(this.lbHamburguesa);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

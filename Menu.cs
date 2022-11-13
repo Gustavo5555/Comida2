@@ -18,14 +18,14 @@ namespace Comida_2
 
         public void HamburguesaSimple(float v)
         {
-            var h = new Menu();
-            h.nombre = "Hamburguesa";
-            h.precio = 500;
+            var hambSimple = new Menu();
+            hambSimple.nombre = "Hamburguesa";
+            hambSimple.precio = 500;
             
-            float valor1 = v * h.precio;
+            float valor1 = v * hambSimple.precio;
 
             StreamWriter archivo = new StreamWriter("Archivo.txt", true);
-            archivo.WriteLine(v + "            " + h.nombre);
+            archivo.WriteLine(v + "            " + hambSimple.nombre);
             archivo.Close();
             
             StreamWriter archivoPrecios = new StreamWriter("Precio.txt", true);

@@ -18,3 +18,24 @@ D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\ob
 D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\ref\Comida 2.dll
 D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida_2.Ingredientes.resources
 D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida_2.Ticket.resources
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\bin\Debug\net6.0-windows\Comida 2.exe
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\bin\Debug\net6.0-windows\Comida 2.deps.json
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\bin\Debug\net6.0-windows\Comida 2.runtimeconfig.json
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\bin\Debug\net6.0-windows\Comida 2.dll
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\bin\Debug\net6.0-windows\Comida 2.pdb
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.csproj.AssemblyReference.cache
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida_2.Form1.resources
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida_2.Ingredientes.resources
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida_2.Properties.Resources.resources
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida_2.Ticket.resources
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.csproj.GenerateResource.cache
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.AssemblyInfoInputs.cache
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.AssemblyInfo.cs
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.dll
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\refint\Comida 2.dll
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.pdb
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.genruntimeconfig.cache
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\ref\Comida 2.dll
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida_2.Usuario.resources

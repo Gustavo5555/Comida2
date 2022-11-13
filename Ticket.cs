@@ -21,10 +21,7 @@ namespace Comida_2
         {
             
         }
-        
-
-
-        
+                
         private void lbHamburguesa_Click(object sender, EventArgs e)
         {
             
@@ -42,9 +39,6 @@ namespace Comida_2
             string precio = File.ReadAllText("Precio.txt");
             lbPrecio.Text = precio;
 
-            
-
-            //-------------------------------
             labelFecha2.Text = DateTime.Now.ToString();
 
 
